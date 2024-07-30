@@ -1,8 +1,12 @@
 <h3>1> Introduce yourself</h3>
 - 💼 I am a student of the Institute of Post and Telecommunications Technology(PTIT)
+<br>
 - 💻 I majored in information security, but that didn't stop me from being interested in programming
+<br>
 - 🔭 I’m currently learning on NodeJs and Backend
+<br>
 - 💬 I want to be a Fullstack developer
+<br>
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com
 <br>
 <h3>2> Information</h3>
