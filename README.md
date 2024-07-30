@@ -2,12 +2,8 @@
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com
 - 💬 I want to be a Fullstack developer
 <br>
+<h3>1> Information</h3>
 <table>
-  <thead>
-    <tr>
-      <td colspan="2"><h3>Information</h3></td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>
@@ -19,7 +15,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Machine Language</h3>
+<h3>2> Machine Language</h3>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=87C647)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=87C647)
@@ -33,7 +29,7 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=87C647)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=87C647)
 <br>
-<h3>Top Language</h3>
+<h3>3> Top Language</h3>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=7C9AD0&text_color=FCE4B4)
