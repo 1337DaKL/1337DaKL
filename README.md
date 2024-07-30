@@ -3,16 +3,9 @@
 - 💬 I want to be a Fullstack developer
 <br>
 <h3>Information</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-      badge&logo=instagram&logoColor=white"/></a>
-    </td>
-    <td>
-       <a href="https://www.facebook.com/1337.DaKL.03"><img src="https://img.shields.io/badge/facebook%20@1337.DaKL.03-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-      badge&logo=instagram&logoColor=white"/></a>
+<br>
+ <a href="https://www.facebook.com/1337.DaKL.03"><img src="https://img.shields.io/badge/facebook%20@1337.DaKL.03-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 
 
