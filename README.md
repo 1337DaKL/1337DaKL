@@ -21,6 +21,6 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=87C647)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=7C9AD0&text_color=87C647)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=7C9AD0&text_color=FCE4B4)
 
 
