@@ -1,13 +1,13 @@
-<h3>1> Introduce yourself</h3>
-- 💼 I am a student of the Posts and Telecommunications Institute of Technology(PTIT)
+<h3>1> Introduce myself</h3>
+- 💼 I am a student of the Posts and Telecommunications Institute of Technology (PTIT) .
 <br>
-- 💻 I majored in information security, but that didn't stop me from being interested in programming
+- 💻 I have major in information security, but it can't stop me from being interested in programming .
 <br>
-- 🔭 I’m currently learning on NodeJs and Backend
+- 🔭 I’m currently learning on NodeJs and Web Backend .
 <br>
-- 💬 I want to be a Fullstack developer
+- 💬 I want to be a Web Fullstack developer .
 <br>
-- 📫 How to reach me: luongtrinh2k3ndad@gmail.com
+- 📫 How to reach me: luongtrinh2k3ndad@gmail.com .
 <br>
 <h3>2> Machine Language</h3>
 
