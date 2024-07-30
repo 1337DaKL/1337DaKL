@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr>
-      <h3>Information</h3>
+      <td colspan="2"><h3>Information</h3></td>
     </tr>
   </thead>
   <tbody>
