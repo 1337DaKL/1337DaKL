@@ -2,10 +2,20 @@
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com
 - 💬 I want to be a Fullstack developer
 <br>
-<a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<br>
-<a href="https://www.facebook.com/1337.DaKL.03"><img src="https://img.shields.io/badge/facebook%20@1337.DaKL.03-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<br>
+<h3>Information</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-      badge&logo=instagram&logoColor=white"/></a>
+      <br>
+      <a href="https://www.facebook.com/1337.DaKL.03"><img src="https://img.shields.io/badge/facebook%20@1337.DaKL.03-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    </td>
+    <td>
+      ok
+    </td>
+  </tr>
+</table>
+
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=87C647)
