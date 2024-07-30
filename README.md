@@ -23,7 +23,7 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&theme=radical&title_color=7C9AD0&text_color=00FF00)
 
 
 
