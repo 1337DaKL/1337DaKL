@@ -2,6 +2,8 @@
 - 🔭 I’m currently learning on NodeJs and Backend
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com
 - 💬 I want to be a Fullstack developer
+
+- 
 <a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=7C9AD0&text_color=87C647)
 <br>
