@@ -1,5 +1,5 @@
 <h3>1> Introduce yourself</h3>
-- 💼 I am a student of the Institute of Post and Telecommunications Technology(PTIT)
+- 💼 I am a student of the Posts and Telecommunications Institute of Technology(PTIT)
 <br>
 - 💻 I majored in information security, but that didn't stop me from being interested in programming
 <br>
