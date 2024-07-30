@@ -1,13 +1,30 @@
-- 🔭 I’m currently learning on NodeJs and Backend
+![icon@2x](https://github.com/user-attachments/assets/63eee4a0-a033-45e1-b659-5127866bd91e)- 🔭 I’m currently learning on NodeJs and Backend
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com
 - 💬 I want to be a Fullstack developer
 <br>
-<h3>Information</h3>
 <a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br>
 <a href="https://www.facebook.com/1337.DaKL.03"><img src="https://img.shields.io/badge/facebook%20@1337.DaKL.03-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<table>
+  <thead>
+    <tr>
+      <td>
+        <h3>Information</h3>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.instagram.com/1337dakl/"><img src="https://img.shields.io/badge/instagram%20@1337dakl-87C647?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+      </td>
+      <td>
+        <a href="https://www.facebook.com/1337.DaKL.03"><img src="https://img.shields.io/badge/facebook%20@1337.DaKL.03-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <h3>Machine Language</h3>
-
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=87C647)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=87C647)
