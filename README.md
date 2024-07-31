@@ -3,7 +3,7 @@
 <br>
 - 💻 I have major in information security, but it can't stop me from being interested in programming.
 <br>
-- 🔭 I’m currently learning on NodeJs and Web Backend.
+- 🔭 I’m currently learning on Web Backend.
 <br>
 - 💬 I want to be a Web Fullstack developer.
 <br>
