@@ -29,7 +29,7 @@
 <br>
 ![NPM](https://img.shields.io/badge/-NPM-grey?style=for-the-badge&logo=NPM&logoColor=white&labelColor=87C647)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=Mongoose&logoColor=white&labelColor=87C647)
-![GITHUB](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=87C647)
+![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white&labelColor=87C647)
 <h3>3> Top Language</h3>
 
 
