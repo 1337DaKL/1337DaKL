@@ -27,7 +27,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=87C647)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=87C647)
 <br>
-![DenoJS](https://img.shields.io/badge/-DenoJS-grey?style=for-the-badge&logo=DenoJS&logoColor=white&labelColor=87C647)
+![NPM](https://img.shields.io/badge/-NPM-grey?style=for-the-badge&logo=NPM&logoColor=white&labelColor=87C647)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=Mongoose&logoColor=white&labelColor=87C647)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=87C647)
 <h3>3> Top Language</h3>
