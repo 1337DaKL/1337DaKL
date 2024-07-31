@@ -30,7 +30,7 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=Mongoose&logoColor=white&labelColor=87C647)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=87C647)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-grey?style=for-the-badge&logo=Socket.io&logoColor=white&labelColor=87C647)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=87C647)
+![node](https://img.shields.io/badge/-nodeJS-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=87C647)
 <br>
 <h4>- Source code management tools:</h4>
 
