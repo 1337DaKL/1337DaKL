@@ -24,8 +24,8 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=87C647)
 <br>
 ![Socket.io](https://img.shields.io/badge/-Socket.io-grey?style=for-the-badge&logo=Socket.io&logoColor=white&labelColor=87C647)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=87C647)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=87C647)
+![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=87C647)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=87C647)
 <h3>3> Top Language</h3>
 
 
