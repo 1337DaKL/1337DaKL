@@ -10,7 +10,7 @@
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com 
 <br>
 <h3>2> Self-skills</h3>
-<h4>-Programming Languages</h4>
+<h4>- Programming Languages:</h4>
 
 
 
@@ -22,7 +22,7 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=87C647)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=87C647)
 <br>
-<h4>-Frameworks và Libraries</h4>
+<h4>- Frameworks và Libraries:</h4>
 
 
 
@@ -32,7 +32,7 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-grey?style=for-the-badge&logo=Socket.io&logoColor=white&labelColor=87C647)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=87C647)
 <br>
-<h4>-Source code management tools</h4>
+<h4>- Source code management tools:</h4>
 
 
 
@@ -40,7 +40,7 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=87C647)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=87C647)
 <br>
-<h4>-Databases</h4>
+<h4>- Databases:</h4>
 
 
 
