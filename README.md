@@ -9,27 +9,26 @@
 <br>
 - 📫 How to reach me: luongtrinh2k3ndad@gmail.com 
 <br>
-<h3>2> Machine Language</h3>
-
+<h3>2> Self-skills</h3>
+<h4>-Programming Languages</h4>
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=87C647)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=87C647)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=87C647)
-<br>
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=87C647)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=87C647)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=87C647)
-<br>
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=87C647)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=87C647)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=87C647)
-<br>
-![Socket.io](https://img.shields.io/badge/-Socket.io-grey?style=for-the-badge&logo=Socket.io&logoColor=white&labelColor=87C647)
-![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=87C647)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=87C647)
 <br>
-![NPM](https://img.shields.io/badge/-NPM-grey?style=for-the-badge&logo=NPM&logoColor=white&labelColor=87C647)
+<h4>-Frameworks và Libraries</h4>
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=Mongoose&logoColor=white&labelColor=87C647)
-![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white&labelColor=87C647)
+![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=87C647)
+![Socket.io](https://img.shields.io/badge/-Socket.io-grey?style=for-the-badge&logo=Socket.io&logoColor=white&labelColor=87C647)
+![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=87C647)
+<br>
+<h4>-Source code management tools</h4>
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=87C647)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=87C647)
+<br>
+<h4>-Databases</h4>
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=87C647)
 <h3>3> Top Language</h3>
 
 
