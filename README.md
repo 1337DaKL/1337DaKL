@@ -25,7 +25,7 @@
 
 
 
-![Express](https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=Express&logoColor=white&labelColor=87C647)
+![ExpressJS](https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=ExpressJS&logoColor=white&labelColor=87C647)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=Mongoose&logoColor=white&labelColor=87C647)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=87C647)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-grey?style=for-the-badge&logo=Socket.io&logoColor=white&labelColor=87C647)
