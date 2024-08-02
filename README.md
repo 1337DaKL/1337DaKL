@@ -22,7 +22,7 @@
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=87C647)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=87C647)
 <br>
-<h4>- Frameworks và Libraries:</h4>
+<h4>- Frameworks and Libraries:</h4>
 
 
 
