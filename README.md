@@ -38,7 +38,7 @@
 
 
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=87C647)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=pink)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=87C647)
 <br>
 <h4>- Databases:</h4>
 
@@ -49,6 +49,6 @@
 <h3>3> Top Language</h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=EB0029&text_color=7DB6BF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=EB0029&text_color=pink)
 
 
