@@ -44,7 +44,7 @@
 
 
 
-![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=json&logoColor=white&labelColor=000000)
+![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=json&logoColor=white&labelColor=87C647)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=87C647)
 <h3>3> Top Language</h3>
 
