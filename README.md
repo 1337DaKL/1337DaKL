@@ -18,7 +18,6 @@
 ![Cpp](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=87C647)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=87C647)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=87C647)
-![DenoJS](https://img.shields.io/badge/-DenoJS-grey?style=for-the-badge&logo=deno&logoColor=white&labelColor=87C647)
 <br>
 <h4>- Frameworks and Libraries:</h4>
 
@@ -29,6 +28,7 @@
 ![node](https://img.shields.io/badge/-nodeJS-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=87C647)
 ![MVC Model](https://img.shields.io/badge/-MVC_Model-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=87C647)
 ![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=json&logoColor=white&labelColor=87C647)
+![DenoJS](https://img.shields.io/badge/-DenoJS-grey?style=for-the-badge&logo=deno&logoColor=white&labelColor=87C647)
 <br>
 <h4>- Source code management tools:</h4>
 
