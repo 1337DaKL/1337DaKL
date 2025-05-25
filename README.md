@@ -10,7 +10,15 @@
 </div>
 
 
-<div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
+<div style="
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+">
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
 </div>
