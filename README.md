@@ -6,11 +6,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=E74777&text_color=EB0029" alt="Top Langs" width="400" style="border: 2px solid #EB0029; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=1337DaKL&theme=codeSTACKr&show_icons=true" style="border: 2px solid #EB0029; border-radius: 10px;">
-  
-</div>
 
-
-<div style="
+  <div style="
   width: 100%;
   display: flex;
   justify-content: center;
@@ -18,8 +15,12 @@
   gap: 20px;
   padding: 20px;
   box-sizing: border-box;
-">
+  ">
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
-  <h1 >1337_DAKL</h1>
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
+  </div>
+  
 </div>
+
+
+
