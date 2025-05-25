@@ -9,5 +9,4 @@
   
 </div>
 
-<img src="![image](https://github.com/user-attachments/assets/180e17f2-7ed7-4afc-98e0-95ad2b536b9d)
-" width="200"/>
+![My Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fuchihasakuhina%2Fuchiha-sharingan-gif%2F&psig=AOvVaw2MoNfd59N6GAX8MiF9btq2&ust=1748236561761000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwidxp_r7r2NAxXShVYBHczRDV8QjRx6BAgAEBg)
