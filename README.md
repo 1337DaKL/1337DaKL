@@ -20,6 +20,6 @@
   box-sizing: border-box;
 ">
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
-  <h1 style="color:F74F8C; font-family: Verdana, sans-serif; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">1337_DAKL</h1>
+  <h1 >1337_DAKL</h1>
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
 </div>
