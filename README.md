@@ -9,5 +9,4 @@
   
 </div>
 
-<img src="![image](https://github.com/user-attachments/assets/3bc3e05f-36b5-49b9-9c12-9f469baf78db)
-" width="150"/>
+![My Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg)
