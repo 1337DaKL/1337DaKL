@@ -10,7 +10,5 @@
 </div>
 
 
-
-<img src="[https://link-to-image.com/anh.png](https://github.com/1337DaKL/1337DaKL/blob/main/download%20(1).jpg)" width="200"/>
-
+<img src="https://raw.githubusercontent.com/1337DaKL/1337DaKL/main/download%20(1).jpg" width="200" />
 
