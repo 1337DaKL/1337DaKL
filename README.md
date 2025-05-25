@@ -9,5 +9,4 @@
   
 </div>
 
-![My Logo](![image](https://github.com/user-attachments/assets/f80d4301-d5bf-484b-9aef-f65beabbc5e2))
-)
+
