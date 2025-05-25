@@ -10,5 +10,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/1337DaKL/1337DaKL/main/download%20(1).jpg" width="200" />
-
+<img src="https://i.pinimg.com/originals/5d/56/16/5d56162f02f2a0bd557e5661aa3d77cb.gif" width="200" />
