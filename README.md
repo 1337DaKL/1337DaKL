@@ -16,7 +16,7 @@
   padding: 20px;
   box-sizing: border-box;
   ">
-  <img src="https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif" width="200" height="200" />
+  <img src="https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif"  />
   </div>
   
 </div>
