@@ -17,7 +17,7 @@
   box-sizing: border-box;
   ">
   <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
-  <img src="https://symbols.vn/wp-content/uploads/2022/01/Hinh-Nen-Dong-Sharingan-an-tuong.gif" width="200" height="200" />
+  <img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" width="200" height="200" />
   </div>
   
 </div>
