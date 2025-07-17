@@ -4,7 +4,7 @@
     Top Language
   </h1>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=E74777&text_color=FFFFFFF" alt="Top Langs" width="400" style="border: 2px ; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337DaKL&layout=donut&theme=radical&title_color=E74777&text_color=000000" alt="Top Langs" width="400" style="border: 2px ; border-radius: 10px;">
 
   <div style="
   width: 100%;
